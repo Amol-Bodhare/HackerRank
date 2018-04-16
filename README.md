@@ -8,13 +8,14 @@
  Post-order: 1,2,3,4,5,6,7
  
  Complete Binary Tree:
+ ```
                7
               /  \    
              /    \     
             3      6  
            / \    /  \     
           1   2  4    5
-
+```
 Input
 height: 3
 number of nodes : 4
