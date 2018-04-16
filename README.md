@@ -22,6 +22,5 @@ number of nodes : 4
 nodes: 1 2 6 7
 Output: 3 3 7 -1
 
-Since, parent 1 & 2 is 3 
-and    parent of 6 is 7
-       parent of 7 is -1 (Root node)
+Since, parent 1 & 2 is 3, parent of 6 is 7
+        and parent of 7 is -1 (Root node)
