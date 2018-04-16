@@ -17,8 +17,8 @@
           1   2  4    5
 ```
 ### Input
-height: 3
-number of nodes : 4
+height: 3 <br>
+number of nodes : 4 <br>
 nodes: 1 2 6 7
 ### Output:
 3 3 7 -1
