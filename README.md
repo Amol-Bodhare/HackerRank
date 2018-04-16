@@ -16,11 +16,12 @@
            / \    /  \     
           1   2  4    5
 ```
-Input
+### Input
 height: 3
 number of nodes : 4
 nodes: 1 2 6 7
-Output: 3 3 7 -1
+### Output:
+3 3 7 -1
 
 Since, parent 1 & 2 is 3, parent of 6 is 7
         and parent of 7 is -1 (Root node)
